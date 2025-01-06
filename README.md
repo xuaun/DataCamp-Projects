@@ -1,6 +1,8 @@
 # DataCamp-Projects
 My DataCamp Case Study Projects 
-- Power BI
+- Power BI (WIP)
 - R
 - PostgreSQL
-- Python
+- Python (WIP)
+
+My DataCamp Portfolio: https://www.datacamp.com/portfolio/joaovictor-ne
