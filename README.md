@@ -1,2 +1,6 @@
 # DataCamp-Projects
-My DataCamp Case Study - Power BI, R, PostgreSQL, and Python
+My DataCamp Case Study Projects 
+- Power BI
+- R
+- PostgreSQL
+- Python
