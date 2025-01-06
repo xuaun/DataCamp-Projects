@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-* R-Projects/**.ipynb linguist-language=r
+* R-Projects/** linguist-language=r
 
-* PostgreSQL-Projects/**.ipynb linguist-language=sql
+* PostgreSQL-Projects/** linguist-language=sql
