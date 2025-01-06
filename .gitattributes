@@ -1,10 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-R-Projects/**.ipynb linguist-language=r
+* R-Projects/**.ipynb linguist-language=r
 
-PostgreSQL-Projects/**.ipynb linguist-language=sql
+* PostgreSQL-Projects/**.ipynb linguist-language=sql
 
-Python-Projects/**.ipynb linguist-language=python
+* Python-Projects/**.ipynb linguist-language=python
 
-Power-BI-Projects/**.ipynb linguist-language=power bi
+* Power-BI-Projects/**.ipynb linguist-language=power bi
