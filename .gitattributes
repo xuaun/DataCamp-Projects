@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+R-Projects/* linguist-language=R
+
+PostgreSQL-Projects/* linguist-language=PostgreSQL
+
+Python-Projects/* linguist-language=Python
+
+Power-BI-Projects/* linguist-language=Power BI
