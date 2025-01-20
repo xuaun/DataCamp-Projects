@@ -10,3 +10,7 @@
 Note: Please also ensure that you do not change the names of the DataFrames that the three query results will be saved as - creating new cells in the workbook will rename the DataFrame (see image below). Make sure that your final solutions use the names provided: highest_donation_assignments and top_regional_impact_assignments.
 
 SQL cell showing the location of the DataFrame name field
+
+## Code with solution
+- ```Query (.sql)``` code [here](./workspace/ngo.sql)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)

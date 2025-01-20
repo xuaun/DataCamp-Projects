@@ -6,3 +6,7 @@
 Note: Please ensure do not change the name of the DataFrame that the query results will be saved as - creating new cells in the notebook will rename the DataFrame (see image below). Make sure that your final solutions uses the name: carbon_emissions_by_industry.
 
 SQL cell called carbon_emissions_by_industry
+
+## Code with solution
+- ```Query (.sql)``` code [here](./workspace/carbon-emission.sql)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)

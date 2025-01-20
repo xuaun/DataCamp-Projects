@@ -14,3 +14,7 @@ Three SQL cells have been created for you in the workbook. To access the data, y
 Note: Please also ensure that you do not change the names of the DataFrames that the three query results will be saved as - creating new cells in the workbook will rename the DataFrame (see image below). Make sure that your final solutions use the names provided: unique_users_per_garage, most_popular_shared_start_times, and long_duration_shared_users.
 
 SQL cell showing the DataFrame named unique_users_per_garage
+
+## Code with solution
+- ```Query (.sql)``` code [here](./workspace/eletric-vehicle.sql)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)

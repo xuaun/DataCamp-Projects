@@ -12,3 +12,7 @@
 ### Which airport is the least frequented destination for flights departing from JFK?
 
 - Save your answer as a character string called least.
+
+## Code with solution
+- ```Script (.R)``` code [here](./workspace/flight.R)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)

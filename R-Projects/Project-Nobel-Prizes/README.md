@@ -12,3 +12,7 @@
 - Who was the first woman to receive a Nobel Prize, and in what category? Save your string answers as first_woman_name and first_woman_category.
 
 - Which individuals or organizations have won multiple Nobel Prizes throughout the years? Store the full names in a list named repeats.
+
+## Code with solution
+- ```Script (.R)``` code [here](./workspace/nobel-prizes.R)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)

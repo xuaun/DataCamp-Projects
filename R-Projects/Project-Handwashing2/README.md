@@ -12,3 +12,7 @@
 - Add a handwashing_started boolean column to monthly using June 1st, 1847 as the threshold; TRUE should mean that handwashing has started at the clinic. Plot the new df with different colored lines depending on handwashing_started.
 
 - Calculate the mean proportion of deaths before and after handwashing from the monthly data, and store the result as a 2x2 df named monthly_summary with the first column containing the handwashing_started groups and the second column having the mean proportion of deaths.
+
+## Code with solution
+- ```Script (.R)``` code [here](./workspace/handwashing2.R)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)

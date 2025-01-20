@@ -12,3 +12,7 @@
 Note: Creating new cells in the workbook will rename the DataFrames. Make sure that your final solution uses the names provided above.
 
 Example DataFrame
+
+## Code with solution
+- ```Query (.sql)``` code [here](./workspace/debt-statistics.sql)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)

@@ -30,3 +30,7 @@
 - quantity
 
 - calculated_quantity (rounded to zero decimal places)
+
+## Code with solution
+- ```Query (.sql)``` code [here](./workspace/cleaning-data.sql)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)

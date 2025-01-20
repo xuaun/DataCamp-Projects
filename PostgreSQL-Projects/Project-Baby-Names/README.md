@@ -10,3 +10,7 @@
 - Which female names appeared in both 1920 and 2020? Save your query as a DataFrame a_names with two columns: first_name, and total_occurrences.
 
 Note: Creating new cells in the workbook will rename the DataFrame. Make sure your solutions use the correct name: notebook_screenshot
+
+## Code with solution
+- ```Query (.sql)``` code [here](./workspace/baby-names.sql)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)

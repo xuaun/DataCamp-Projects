@@ -10,3 +10,7 @@
 - Identify the five programming language tags with the highest total number of questions asked between 2015 and 2020 (inclusive). Save the tag names as a character vector, highest_tags.
 
 Bonus: try visualizing the data along the way!
+
+## Code with solution
+- ```Script (.R)``` code [here](./workspace/popularity-programming.R)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)

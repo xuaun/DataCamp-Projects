@@ -16,3 +16,7 @@
 Note: Creating new cells in the workbook will rename the DataFrame. Make sure that your final solution uses the name df.
 
 Screenshot showing the location of the DataFrame name field
+
+## Code with solution
+- ```Query (.sql)``` code [here](./workspace/mental-health.sql)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)

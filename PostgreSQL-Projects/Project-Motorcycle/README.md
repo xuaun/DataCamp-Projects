@@ -14,3 +14,7 @@
 Note: Please also ensure that you do not change the name of the DataFrame that the query result will be saved as - creating new cells in the workbook will produce a DataFrame with a different name. Make sure that your final solution uses the names provided: revenue_by_product_line (see image below).
 
 SQL cell saving the query results as a pandas DataFrame called revenue_by_product_line
+
+## Code with solution
+- ```Query (.sql)``` code [here](./workspace/motorcycle.sql)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)

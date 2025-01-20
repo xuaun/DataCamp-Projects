@@ -10,3 +10,7 @@
 - Which business categories are best suited to last many years, and on what continent are they? Store your answer in a DataFrame oldest_by_continent_category with the oldest founding year for each continent and category combination. It should contain three columns: continent, category, and year_founded, in that order.
 
 Note: Creating new cells in the workbook will rename the DataFrame. Make sure your solutions use the correct name:Screenshot showing the naming of DataFrames for SQL
+
+## Code with solution
+- ```Query (.sql)``` code [here](./workspace/oldest-businesses.sql)
+- ```Jupyter Notebook (.ipynb)``` file [here](./workspace/notebook.ipynb)
