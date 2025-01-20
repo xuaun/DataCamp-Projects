@@ -22,8 +22,8 @@ This repository is organized as follows:
 - In ```main```, we have project folders divided by each language used:
     - Projects that use [SQL (PostgreSQL)](./PostgreSQL-Projects/)
     - Projects that use [R](./R-Projects/)
-    - Projects that use [Python](./Python-Projects/) (WIP)
-    - Projects that use [Power BI](./Power-BI-Projects/) (WIP)
+    - Projects that use [Python](./Python-Projects/) (*WIP*)
+    - Projects that use [Power BI](./Power-BI-Projects/) (*WIP*)
 - Within each folder, there are the projects, containing the context (and questions) of each project, in addition to their respective notebooks/codes that I created to solve the project;
     - Some projects also have other files, such as datasets used, for example.
 
@@ -61,8 +61,8 @@ Este repositório está organizado da seguinte maneira:
 - No ```main```, temos pastas dos projetos divididos por cada linguagem utilizada:
     - Projetos que usam [SQL (PostgreSQL)](./PostgreSQL-Projects/)
     - Projetos que usam [R](./R-Projects/)
-    - Projetos que usam [Python](./Python-Projects/) (em elaboração)
-    - Projetos que usam [Power BI](./Power-BI-Projects/) (em elaboração)
+    - Projetos que usam [Python](./Python-Projects/) (*em elaboração*)
+    - Projetos que usam [Power BI](./Power-BI-Projects/) (*em elaboração*)
 - Dentro de cada pasta, estão os projetos, contendo o contexto (e perguntas) de cada projeto, além de seus respectivos notebooks/códigos que elaborei para a resolução do projeto;
     - Alguns projetos também contam com outros arquivos, como datasets utilizados, por exemplo.
 
